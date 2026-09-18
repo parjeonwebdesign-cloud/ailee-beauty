@@ -1,0 +1,6 @@
+{
+  "name": "AILÉE Beauty",
+  "description": "Beauty that catches the light. 맑고 투명한 광채 뷰티 브랜드 AILÉE의 공식 브랜드 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
